@@ -1,3 +1,10 @@
+# 1.0.0 (2025-10-29)
+
+
+### Features
+
+* init project ([4d49114](https://github.com/zhaochunqi/logseq-plugin-pagesearch/commit/4d491143f612b579190d4279f98325b06bddca98))
+
 ## [1.10.3](https://github.com/pengx17/logseq-plugin-todo-master/compare/v1.10.2...v1.10.3) (2022-08-31)
 
 
